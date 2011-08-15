@@ -1,0 +1,3 @@
+# Module walmart
+# RPC service class, partial path of RPC policy file
+com.chengchen.walmart.timeTracking.client.EmployeeService, 0546D199A5F1578DA6A55E055B1971B7.gwt.rpc
